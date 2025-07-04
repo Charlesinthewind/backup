@@ -1,0 +1,947 @@
+{
+  "黄芪鳖甲散": {
+    "query_node": "黄芪鳖甲散",
+    "relationships": [
+      {
+        "source": "黄芪鳖甲散_太平惠民和剂局方",
+        "relation": "方药关系",
+        "target": "柴胡",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1,
+        "target_properties": {
+          "炮制剂量@黄芪鳖甲散_太平惠民和剂局方": "去芦/三两三钱"
+        }
+      },
+      {
+        "source": "黄芪鳖甲散_太平惠民和剂局方",
+        "relation": "方药关系",
+        "target": "地骨皮",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1,
+        "target_properties": {
+          "炮制剂量@黄芪鳖甲散_太平惠民和剂局方": "去土"
+        }
+      },
+      {
+        "source": "黄芪鳖甲散_太平惠民和剂局方",
+        "relation": "方药关系",
+        "target": "白茯苓",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1,
+        "target_properties": {
+          "炮制剂量@黄芪鳖甲散_太平惠民和剂局方": "焙"
+        }
+      },
+      {
+        "source": "黄芪鳖甲散_太平惠民和剂局方",
+        "relation": "方药关系",
+        "target": "秦艽",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1,
+        "target_properties": {
+          "炮制剂量@黄芪鳖甲散_太平惠民和剂局方": "去芦"
+        }
+      },
+      {
+        "source": "黄芪鳖甲散_太平惠民和剂局方",
+        "relation": "方药关系",
+        "target": "鳖甲",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1,
+        "target_properties": {
+          "炮制剂量@黄芪鳖甲散_太平惠民和剂局方": "去裙/醋炙/五两"
+        }
+      },
+      {
+        "source": "黄芪鳖甲散_太平惠民和剂局方",
+        "relation": "方药关系",
+        "target": "天门冬",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1,
+        "target_properties": {
+          "炮制剂量@黄芪鳖甲散_太平惠民和剂局方": "去心，/焙"
+        }
+      },
+      {
+        "source": "黄芪鳖甲散_太平惠民和剂局方",
+        "relation": "方药关系",
+        "target": "桑白皮",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1,
+        "target_properties": {
+          "炮制剂量@黄芪鳖甲散_太平惠民和剂局方": "二两半"
+        }
+      },
+      {
+        "source": "黄芪鳖甲散_太平惠民和剂局方",
+        "relation": "方药关系",
+        "target": "甘草",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1,
+        "target_properties": {
+          "炮制剂量@黄芪鳖甲散_太平惠民和剂局方": "爁"
+        }
+      },
+      {
+        "source": "黄芪鳖甲散_太平惠民和剂局方",
+        "relation": "方药关系",
+        "target": "黄芪",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_太平惠民和剂局方",
+        "relation": "方药关系",
+        "target": "芍药",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_太平惠民和剂局方",
+        "relation": "方药关系",
+        "target": "赤",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_太平惠民和剂局方",
+        "relation": "方药关系",
+        "target": "知母",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_太平惠民和剂局方",
+        "relation": "方药关系",
+        "target": "紫菀",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1,
+        "target_properties": {
+          "炮制剂量@黄芪鳖甲散_太平惠民和剂局方": "去芦"
+        }
+      },
+      {
+        "source": "黄芪鳖甲散_太平惠民和剂局方",
+        "relation": "方药关系",
+        "target": "半夏",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1,
+        "target_properties": {
+          "炮制剂量@黄芪鳖甲散_太平惠民和剂局方": "煮"
+        }
+      },
+      {
+        "source": "黄芪鳖甲散_太平惠民和剂局方",
+        "relation": "方药关系",
+        "target": "生干地黄",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1,
+        "target_properties": {
+          "炮制剂量@黄芪鳖甲散_太平惠民和剂局方": "洗/焙干/三两三钱"
+        }
+      },
+      {
+        "source": "黄芪鳖甲散_太平惠民和剂局方",
+        "relation": "方药关系",
+        "target": "苦梗",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1,
+        "target_properties": {
+          "炮制剂量@黄芪鳖甲散_太平惠民和剂局方": "一两六钱半"
+        }
+      },
+      {
+        "source": "黄芪鳖甲散_太平惠民和剂局方",
+        "relation": "方药关系",
+        "target": "肉桂",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1,
+        "target_properties": {
+          "炮制剂量@黄芪鳖甲散_太平惠民和剂局方": "去粗皮"
+        }
+      },
+      {
+        "source": "黄芪鳖甲散_太平惠民和剂局方",
+        "relation": "方药关系",
+        "target": "人参",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_太平惠民和剂局方",
+        "relation": "方治关系",
+        "target": "咳唾稠粘",
+        "target_labels": [
+          "主治"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_太平惠民和剂局方",
+        "relation": "方治关系",
+        "target": "减食多渴",
+        "target_labels": [
+          "主治"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_太平惠民和剂局方",
+        "relation": "方治关系",
+        "target": "胸胁不利",
+        "target_labels": [
+          "主治"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_太平惠民和剂局方",
+        "relation": "方治关系",
+        "target": "盗汗",
+        "target_labels": [
+          "主治"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_太平惠民和剂局方",
+        "relation": "方治关系",
+        "target": "颊赤心忪",
+        "target_labels": [
+          "主治"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_太平惠民和剂局方",
+        "relation": "方治关系",
+        "target": "口燥咽干",
+        "target_labels": [
+          "主治"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_太平惠民和剂局方",
+        "relation": "方治关系",
+        "target": "五心烦热",
+        "target_labels": [
+          "主治"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_太平惠民和剂局方",
+        "relation": "方治关系",
+        "target": "四肢倦怠",
+        "target_labels": [
+          "主治"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_太平惠民和剂局方",
+        "relation": "方治关系",
+        "target": "肌肉消瘦",
+        "target_labels": [
+          "主治"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_太平惠民和剂局方",
+        "relation": "方治关系",
+        "target": "虚劳客热",
+        "target_labels": [
+          "主治"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方效关系",
+        "target": "表里气血交治",
+        "target_labels": [
+          "功效"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方效关系",
+        "target": "升阳",
+        "target_labels": [
+          "功效"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方效关系",
+        "target": "解肌热",
+        "target_labels": [
+          "功效"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方效关系",
+        "target": "除蒸",
+        "target_labels": [
+          "功效"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方效关系",
+        "target": "散内热",
+        "target_labels": [
+          "功效"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方药关系",
+        "target": "秦艽地骨",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方效关系",
+        "target": "润",
+        "target_labels": [
+          "功效"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方治关系",
+        "target": "喉痹咽痛",
+        "target_labels": [
+          "主治"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方效关系",
+        "target": "化痰利咽",
+        "target_labels": [
+          "功效"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方效关系",
+        "target": "润肺止嗽",
+        "target_labels": [
+          "功效"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方药关系",
+        "target": "紫",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方效关系",
+        "target": "理痰嗽",
+        "target_labels": [
+          "功效"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方效关系",
+        "target": "泻肺热",
+        "target_labels": [
+          "功效"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方药关系",
+        "target": "桑皮桔梗",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方效关系",
+        "target": "助阳",
+        "target_labels": [
+          "功效"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方效关系",
+        "target": "补脾肺之虚",
+        "target_labels": [
+          "功效"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方效关系",
+        "target": "固卫气",
+        "target_labels": [
+          "功效"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方药关系",
+        "target": "桂苓甘草",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方效关系",
+        "target": "泻肝火",
+        "target_labels": [
+          "功效"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方效关系",
+        "target": "泻肺火",
+        "target_labels": [
+          "功效"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方药关系",
+        "target": "地黄",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方效关系",
+        "target": "养阴",
+        "target_labels": [
+          "功效"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方效关系",
+        "target": "泻肺肝之火",
+        "target_labels": [
+          "功效"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方效关系",
+        "target": "滋肾水",
+        "target_labels": [
+          "功效"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方药关系",
+        "target": "芍地知母",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "相关方名",
+        "target": "人参黄芪散",
+        "target_labels": [
+          "方剂"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方药关系",
+        "target": "肉桂",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1,
+        "target_properties": {
+          "炮制剂量@黄芪鳖甲散_成方切用": "钱半"
+        }
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方药关系",
+        "target": "桔梗",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方药关系",
+        "target": "人参",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方药关系",
+        "target": "知母",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1,
+        "target_properties": {
+          "炮制剂量@黄芪鳖甲散_成方切用": "三钱半"
+        }
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方药关系",
+        "target": "甘草",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1,
+        "target_properties": {
+          "炮制剂量@黄芪鳖甲散_成方切用": "炙"
+        }
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方药关系",
+        "target": "生地黄",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方药关系",
+        "target": "芍药",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方药关系",
+        "target": "半夏",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方药关系",
+        "target": "紫菀",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方药关系",
+        "target": "桑白皮",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方药关系",
+        "target": "茯苓",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1,
+        "target_properties": {
+          "炮制剂量@黄芪鳖甲散_成方切用": "三钱"
+        }
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方药关系",
+        "target": "地骨皮",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方药关系",
+        "target": "秦艽",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方药关系",
+        "target": "柴胡",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方药关系",
+        "target": "天冬",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1,
+        "target_properties": {
+          "炮制剂量@黄芪鳖甲散_成方切用": "五钱"
+        }
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方药关系",
+        "target": "鳖甲",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1,
+        "target_properties": {
+          "炮制剂量@黄芪鳖甲散_成方切用": "炙"
+        }
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方药关系",
+        "target": "黄芪",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1,
+        "target_properties": {
+          "炮制剂量@黄芪鳖甲散_成方切用": "蜜炙"
+        }
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方治关系",
+        "target": "肾水不足",
+        "target_labels": [
+          "主治"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方治关系",
+        "target": "咽",
+        "target_labels": [
+          "主治"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方治关系",
+        "target": "咳嗽咽",
+        "target_labels": [
+          "主治"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方治关系",
+        "target": "四肢怠惰",
+        "target_labels": [
+          "主治"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方治关系",
+        "target": "五心烦热",
+        "target_labels": [
+          "主治"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_成方切用",
+        "relation": "方治关系",
+        "target": "男女虚劳客热",
+        "target_labels": [
+          "主治"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_医方论",
+        "relation": "方药关系",
+        "target": "肉桂",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1,
+        "target_properties": {
+          "炮制剂量@黄芪鳖甲散_医方论": "姜煎/一钱五分"
+        }
+      },
+      {
+        "source": "黄芪鳖甲散_医方论",
+        "relation": "方药关系",
+        "target": "桔梗",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_医方论",
+        "relation": "方药关系",
+        "target": "人参",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_医方论",
+        "relation": "方药关系",
+        "target": "甘草",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1,
+        "target_properties": {
+          "炮制剂量@黄芪鳖甲散_医方论": "炙/三钱五分"
+        }
+      },
+      {
+        "source": "黄芪鳖甲散_医方论",
+        "relation": "方药关系",
+        "target": "知母",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_医方论",
+        "relation": "方药关系",
+        "target": "生地黄",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_医方论",
+        "relation": "方药关系",
+        "target": "芍药",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_医方论",
+        "relation": "方药关系",
+        "target": "茯苓",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1,
+        "target_properties": {
+          "炮制剂量@黄芪鳖甲散_医方论": "三钱"
+        }
+      },
+      {
+        "source": "黄芪鳖甲散_医方论",
+        "relation": "方药关系",
+        "target": "半夏",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1,
+        "target_properties": {
+          "炮制剂量@黄芪鳖甲散_医方论": "二钱五分"
+        }
+      },
+      {
+        "source": "黄芪鳖甲散_医方论",
+        "relation": "方药关系",
+        "target": "紫菀",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_医方论",
+        "relation": "方药关系",
+        "target": "桑白皮",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_医方论",
+        "relation": "方药关系",
+        "target": "地骨皮",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1,
+        "target_properties": {
+          "炮制剂量@黄芪鳖甲散_医方论": "三钱"
+        }
+      },
+      {
+        "source": "黄芪鳖甲散_医方论",
+        "relation": "方药关系",
+        "target": "柴胡",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_医方论",
+        "relation": "方药关系",
+        "target": "秦艽",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1
+      },
+      {
+        "source": "黄芪鳖甲散_医方论",
+        "relation": "方药关系",
+        "target": "天冬",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1,
+        "target_properties": {
+          "炮制剂量@黄芪鳖甲散_医方论": "五钱"
+        }
+      },
+      {
+        "source": "黄芪鳖甲散_医方论",
+        "relation": "方药关系",
+        "target": "鳖甲",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1,
+        "target_properties": {
+          "炮制剂量@黄芪鳖甲散_医方论": "炙"
+        }
+      },
+      {
+        "source": "黄芪鳖甲散_医方论",
+        "relation": "方药关系",
+        "target": "黄芪",
+        "target_labels": [
+          "中药"
+        ],
+        "hop": 1,
+        "target_properties": {
+          "炮制剂量@黄芪鳖甲散_医方论": "蜜炙"
+        }
+      },
+      {
+        "source": "人参黄芪散",
+        "relation": "相关方名",
+        "target": "黄芪鳖甲散_成方切用",
+        "target_labels": [
+          "方剂"
+        ],
+        "from_formula": "人参黄芪散",
+        "hop": 1.5
+      }
+    ]
+  }
+}
